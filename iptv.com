@@ -76,29 +76,14 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
 https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah `offline`
-# Link placeholder
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8 
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-
-#EXTINF:-1 tvg-group="ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1588442472/ei/CGGtXoaiJo2yvQS0o4iYDA/ip/202.187.9.241/id/JKQzLbfh7SM.28/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/12160/mh/gQ/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/1/pl/15/dover/11/keepalive/yes/fexp/23882514/beids/9466588/mt/1588420756/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAOpsB9BVaQhkSaB45GA9NI8Y2jxY0m2wCUH19QRZ7UGoAiEA4USw6qqb--t6G770GPvM4b9tpY3ZEo5h2RePdbBcqVE%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAIUJGUk3ext-Gxq5_Dwc8UAR2M7_L4zYDRI5PjCeHP5VAiEA5vxhbZzzmqATUSjjRU_-MtSAtr8omDTK_QFRH7T-CVs%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA/live
-
-#EXTINF:-1 tvg-group="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1588442463/ei/_2CtXtmPGY291AaUyYjIAQ/ip/202.187.9.241/id/gIB2egm7tL8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-uphxqvujvh-30az.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/13820/mh/uj/mm/44/mn/sn-uphxqvujvh-30az/ms/lva/mv/m/mvi/1/pl/15/dover/11/keepalive/yes/beids/9466588/mt/1588420756/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAPYfsrI719G45Vyv-fzrRfSxTdBxWh3wfFzYDhJz66eEAiEAgkyxDmlH-pmlJn4eYY_YyzwQ8d_Mk4wMMkBpfya26Bg%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgMKdFPD7mh2pgDEjN1J-nOtPUKLfPdZ9KFpmAsfzMC4YCIFlsRpgDcS6Tw8VsSKnkFurMyhOwBIlWyZwuLGTjPtoC/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UC5BMIWZe9isJXLZZWPWvBlg/live
 
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybDQgEot5GYPMRENX2iQxF5w)/dm/3/x619221/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k2A6i1fIfWpxZpoH4XD
