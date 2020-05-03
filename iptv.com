@@ -5,8 +5,8 @@ http://103.205.133.14/hls/rtv.m3u8
 http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1,news24
 http://103.205.133.14/hls/news24.m3u8
-#EXTINF:-1,VIP FHD : Disney Channel
-http://bestever.vodiptv.org:83/forty1234/forty4321/374177
+#EXTINF:-1,THE HISTORY SD
+http://vipeiptv.com:25461/987654321/987654321/758318
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2
