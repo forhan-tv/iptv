@@ -5,8 +5,8 @@ http://103.205.133.14/hls/rtv.m3u8
 http://103.205.133.14/hls/ntv.m3u8
 #EXTINF:-1,news24
 http://103.205.133.14/hls/news24.m3u8
-#EXTINF:-1,UK SD : Nickelodeon
-http://bestever.vodiptv.org:83/forty1234/forty4321/256209
+#EXTINF:-1,VIP USA HD : Disney XD
+http://bestever.vodiptv.org:83/forty1234/forty4321/308919
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2
