@@ -13,8 +13,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589120511/ei/n
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,HINDI MOVIES
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589135434/ei/6vO3XtraEpWevQTp_JioDw/ip/14.192.210.243/id/zUnB5OypVwo.1/source/yt_live_broadcast/requiressl/yes/tx/23869216/txs/23869215%2C23869216%2C23888706%2C23888707/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJFt3ou0s2ZYYwIBTQfchxxKkwZLdNJ-SPlypZHhuLfFAiEAwCnWccGdeXHIt8rimoG-abiuI-gVQtt_lyzfxsKqOAU%3D/file/index.m3u8
-#EXTINF:-1,Zee TV
-http://103.205.133.14/hls/zeetv.m3u8
+#EXTINF:-1,MYCINEMA TV
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/live-orgin/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.205.133.14/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Action
