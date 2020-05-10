@@ -45,12 +45,12 @@ http://103.205.133.14/hls/gaanbangla.m3u8
 http://103.205.133.14/hls/euronews.m3u8
 #EXTINF:-1,SA TV
 http://103.205.133.14/hls/satv.m3u8
-#EXTINF:-1,Jamuna TV
-http://103.205.133.14/hls/jamunatv.m3u8
+#EXTINF:-1,JAMUNA TV
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,Desh TV
 http://103.205.133.14/hls/deshtv.m3u8
 #EXTINF:-1,DBC NEWS
-https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?nimblesessionid=26066779
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8?
 #EXTINF:-1,Zing
 http://103.205.133.14/hls/zing.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
