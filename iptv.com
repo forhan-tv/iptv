@@ -26,7 +26,7 @@ http://103.205.133.14/hls/mytv.m3u8
 #EXTINF:-1,Bangladesh Television
 http://103.205.133.14/hls/btv.m3u8
 #EXTINF:-1,BTV World
-http://103.205.133.14/hls/btvworld.m3u8
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,DD Bangla
 http://103.205.133.14/hls/ddbangla.m3u8
 #EXTINF:-1,Sony Max
