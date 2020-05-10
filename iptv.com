@@ -17,7 +17,7 @@ http://103.205.133.14/hls/zeetv.m3u8
 http://103.205.133.14/hls/zeebangla.m3u8
 #EXTINF:-1,Zee Action
 http://103.205.133.14/hls/zeeaction.m3u8
-#EXTINF:0,Iqra Bangla
+#EXTINF:0,IQRA BANGLA
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.14/hls/zeecinema.m3u8
