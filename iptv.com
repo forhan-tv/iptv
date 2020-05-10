@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,rtv
+#EXTINF:-1,RTV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589118698/ei/ibK3XpWDOOHJ4-EP5q28uAQ/ip/14.192.210.243/id/c1wkSqITi3I.0/source/yt_live_broadcast/requiressl/yes/tx/23869216/txs/23869215%2C23869216%2C23888706%2C23888707/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBp9rS-OW5Kht-H7bRbhBtW3VFMa3VsZogawRPFj6_tQCIQDkFdB3xUvToEKSewoZ_NX8eHeWjBxpM7gc3_scKiK_Ww%3D%3D/file/index.m3u8
-#EXTINF:-1,ntv
+#EXTINF:-1,NTV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589117325/ei/La23XpeEBbrIz7sPvYOIyAY/ip/14.192.210.243/id/-LbMU-MbIa0.0/source/yt_live_broadcast/requiressl/yes/tx/23869216/txs/23869215%2C23869216%2C23888706%2C23888707/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQ4O--VBW-_F_3UebkScbJCwMggvbuXEupS_q0oVXaK8CIQCHVqJISY-FeaBVIEdVoeyRsv9X8x6vHqQiNM7Fxhxh_w%3D%3D/file/index.m3u8
 #EXTINF:-1,news24
 http://103.205.133.14/hls/news24.m3u8
-#EXTINF:-1,THE HISTORY SD
-http://vipeiptv.com:25461/987654321/987654321/758318
+#EXTINF:-1,SOMOY TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1589120511/ei/n7m3Xp6NF4jb4-EP1aG6mA4/ip/14.192.210.243/id/KgiwN7ddb2U.2/source/yt_live_broadcast/requiressl/yes/tx/23869216/txs/23869215%2C23869216%2C23888706%2C23888707/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882513/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALpbDkut9KUin2cJnjQ4scdtbH4PxBEm3fmQQ9EgMayxAiEAoTe3vEpLSDMrughOf-4Ug-XR-1N_9ZMxS61Dhq1WK_I%3D/file/index.m3u8
 #EXTINF:-1,Sony Ten 1
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 2
