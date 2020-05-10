@@ -21,7 +21,7 @@ http://103.205.133.14/hls/zeeaction.m3u8
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1,Zee Cinema
 http://103.205.133.14/hls/zeecinema.m3u8
-#EXTINF:-1, MT TV
+#EXTINF:-1, MY TV
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,Bangladesh Television
 http://103.205.133.14/hls/btv.m3u8
