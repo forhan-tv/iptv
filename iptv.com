@@ -35,8 +35,8 @@ http://103.205.133.14/hls/sonymax.m3u8
 http://103.205.133.14/hls/sonysab.m3u8
 #EXTINF:-1,Sony Pix
 http://103.205.133.14/hls/sonypix.m3u8
-#EXTINF:-1,ATN Bangla
-http://103.205.133.14/hls/atnbangla.m3u8
+#EXTINF:-1,ATN BANGLA
+https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,BANGLA VISION
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,Gaan Bangla TV
