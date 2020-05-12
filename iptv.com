@@ -29,8 +29,8 @@ http://enaniptv.com/magicbanglatv/1080/index.m3u8
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,BTV World
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1,DD Bangla
-http://103.205.133.14/hls/ddbangla.m3u8
+#EXTINF:-1,BANGLA CINEMA
+http://103.81.104.222/live/zeebanglacinema/1589252879021.ts
 #EXTINF:-1,Sony Max
 http://103.205.133.14/hls/sonymax.m3u8
 #EXTINF:-1,Sony Sab
