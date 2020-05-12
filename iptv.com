@@ -58,7 +58,7 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,SONY AATH
 http://103.81.104.222/live/sonyaath/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
-http://srv.maxptv.net:8080/live/peterson/peterson/186.m3u8
+http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/2679.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://jeckeplay.xyz:80/live/Barreto/123456/29797.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
