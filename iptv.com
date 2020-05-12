@@ -23,8 +23,8 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:0,IQRA BANGLA
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
-#EXTINF:-1,Zee Cinema
-http://103.205.133.14/hls/zeecinema.m3u8
+#EXTINF:-1,MAGIC BANGLA
+http://enaniptv.com/magicbanglatv/1080/index.m3u8
 #EXTINF:-1, MY TV
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1,BTV World
