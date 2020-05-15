@@ -59,6 +59,8 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.81.104.222/live/sonyaath/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/2679.m3u8
+#EXTINF:-1,SONY YAY (KIDS)
+http://103.205.133.42:1935/live/sony_yay_240/chunklist_w1039004735.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13103.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
