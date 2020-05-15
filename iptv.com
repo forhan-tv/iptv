@@ -63,6 +63,8 @@ http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/2679.m3u8
 http://103.205.133.42:1935/live/sony_yay_240/chunklist_w1039004735.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13103.m3u8
+#EXTINF:-1,DISCOVERY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
