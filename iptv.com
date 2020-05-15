@@ -31,8 +31,8 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,BANGLA CINEMA
 http://103.81.104.222/live/zeebanglacinema/index.m3u8
-#EXTINF:-1,Sony Max
-http://103.205.133.14/hls/sonymax.m3u8
+#EXTINF:-1,SONY MAX
+http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Sab
 http://103.205.133.14/hls/sonysab.m3u8
 #EXTINF:-1,Sony Pix
