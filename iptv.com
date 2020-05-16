@@ -35,8 +35,8 @@ http://103.81.104.222/live/zeebanglacinema/index.m3u8
 http://216.144.250.174/Sony_MaX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Sab
 http://103.205.133.14/hls/sonysab.m3u8
-#EXTINF:-1,Sony Pix
-http://103.205.133.14/hls/sonypix.m3u8
+#EXTINF:-1,SONY PIX
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1589689486~acl=%2f*~data=hdntl~hmac=e0029fbef1e478bfa1b3377e76009f6abf44e29ad0361a05394c0ae4ee3f65bc/20200503T223253/master_3500/01361/master_3500_00109.ts
 #EXTINF:-1,ATN BANGLA
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,BANGLA VISION
