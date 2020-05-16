@@ -59,6 +59,8 @@ https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 https://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/live-orgin/rtdocumentary.stream/chunks.m3u8
 #EXTINF:-1,SONY AATH
 http://103.81.104.222/live/sonyaath/index.m3u8
+#EXTINF:-1,STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1,NAT GEO
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 #EXTINF:-1,NAT GEO WILD
